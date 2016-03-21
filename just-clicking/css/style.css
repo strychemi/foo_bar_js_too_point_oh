@@ -1,6 +1,6 @@
 /*
   Style
-*/ 
+*/
 
 .square {
   border: 1px solid #222;
@@ -8,8 +8,9 @@
 }
 
 .square.active {
-  background: #FF5954
+  background: #FF5954;
 }
 
-
-
+.square.difficult {
+  visibility: hidden;
+}
