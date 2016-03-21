@@ -1,0 +1,15 @@
+/*
+  Style
+*/ 
+
+.square {
+  border: 1px solid #222;
+  height: 128px;
+}
+
+.square.active {
+  background: #FF5954
+}
+
+
+
